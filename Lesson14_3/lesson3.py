@@ -1,3 +1,3 @@
-print("Hello World")
+print("Hello Belarus")
 print("Hello Boss Eugene")
 print("Hello Git")
