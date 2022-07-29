@@ -4,6 +4,7 @@ def check(symbol):
     else:
         return symbol
 
+
 action = input("Введите действие: ")
 sing = check(action)
 
